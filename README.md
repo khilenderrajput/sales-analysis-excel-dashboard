@@ -8,7 +8,7 @@ The project uses **Power Query, Power Pivot, DAX, PivotTables, PivotCharts, and 
 
 ## 📸 Dashboard Preview
 
-![Sales Analysis Dashboard](dashboard.png)
+![Sales Analysis Dashboard](excel.project.ss..2.jpeg)
 
 > The dashboard provides an interactive view of sales performance across occasions, categories, hours, months, products, and cities.
 
